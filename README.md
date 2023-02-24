@@ -7,3 +7,5 @@ const
 
 for döngüsü
 while döngüsü
+array
+object
