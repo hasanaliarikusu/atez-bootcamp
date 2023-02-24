@@ -6,7 +6,7 @@ if(number==0){
     console.log(`Pozif Değer giriniz`);
 }
     else if (typeof n !== "number" )
-    {console.log(`Pozif Değer giriniz`);
+    {console.log(`Rakam giriniz`);
 }
 else{
     for(let i=1; i<=number;i++){
